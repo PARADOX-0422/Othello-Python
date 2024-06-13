@@ -1,0 +1,11 @@
+
+python:S1192ë"JDefine a constant instead of duplicating this literal "Game Over" 3 times.(¶ªğ€8í¹Èé÷1J$b839f0c3-fa37-4ba9-bc4d-28baa3ae40b5
+qpython:S1481+",Remove the unused local variable "game_app".(¥™µê8î¹Èé÷1J$196cfbc4-bb4d-4bfb-afe2-c7d00240f30c
+python:S37769"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ä¡ŞÔùÿÿÿÿ8ï¹Èé÷1J$b15a06d0-d344-4ada-ac30-36c817555bfe
+python:S3358="IExtract this nested conditional expression into an independent statement.(éŞ«İ8ğ¹Èé÷1J$744d0fe4-7052-4729-ba8a-b2712f337dfa
+™python:S3776L"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(æ“Üé8ğ¹Èé÷1J$08d85ae9-6fa7-452c-9f44-b1a1c136330b
+špython:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(´øäï8ğ¹Èé÷1J$4cb68d8a-1ca7-4e9c-91fe-50d0ac54cbd3
+špython:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(÷öµ†8ğ¹Èé÷1J$be2d93c6-298b-49ed-9f8f-c61e1b6d2baa
+Ÿpython:S3776„"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ï—£Æûÿÿÿÿ8ğ¹Èé÷1J$3cb608ac-ca3e-462b-9033-5414f58dd0b7
+Ÿpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(òí›åÿÿÿÿÿ8ñ¹Èé÷1J$86888e29-d077-455c-8232-49c88712c3f0
+wpython:S1481˜"1Remove the unused local variable "selection_app".(íéúÁ8ñ¹Èé÷1J$e7030849-8fdc-423d-a8ba-7c6ee5107972

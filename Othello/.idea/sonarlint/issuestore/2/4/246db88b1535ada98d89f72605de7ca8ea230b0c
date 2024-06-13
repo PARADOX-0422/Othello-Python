@@ -1,0 +1,38 @@
+
+ipython:S1192®"KDefine a constant instead of duplicating this literal "Game Ended" 4 times.(Ë´ã±ıÿÿÿÿ
+hpython:S1192¦"ODefine a constant instead of duplicating this literal "White's score:" 4 times.(¿Û¨©
+mpython:S1192¥"ODefine a constant instead of duplicating this literal "Black's score:" 4 times.(äø”ùúÿÿÿÿ
+qpython:S1192§"SDefine a constant instead of duplicating this literal "Black pieces left:" 3 times.(æ·úÿÿÿÿ
+qpython:S1192¨"SDefine a constant instead of duplicating this literal "White pieces left:" 3 times.(û÷¤µÿÿÿÿÿ
+|python:S116"`Rename this field "computerPlayerPieceCount" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ú¾‘˜ùÿÿÿÿ
+qpython:S116"ZRename this field "blackPiecesOnBoard" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÏşÊ«
+rpython:S116	"VRename this field "computerPlayer" to match the regular expression ^[_a-z][_a-z0-9]*$.(ï»Ó÷úÿÿÿÿ
+ipython:S116"SRename this field "humanPlayer" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÑùŞ|
+spython:S116
+"]Rename this field "humanPlayerPieceCount" to match the regular expression ^[_a-z][_a-z0-9]*$.(Âã®
+vpython:S116"ZRename this field "whitePiecesOnBoard" to match the regular expression ^[_a-z][_a-z0-9]*$.(ªòÇçıÿÿÿÿ
+lpython:S100"URename method "isThereAValidMove" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğåíË
+fpython:S100 "ORename method "switchTurns" to match the regular expression ^[a-z_][a-z0-9_]*$.(ï×Ğ˜
+wpython:S117p"[Rename this local variable "foundBlack" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒóÁíüÿÿÿÿ
+rpython:S1175"[Rename this local variable "foundWhite" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÒú¾
+wpython:S100)"[Rename method "addValidMovesToTheBoard" to match the regular expression ^[a-z_][a-z0-9_]*$.(ó‚ €úÿÿÿÿ
+rpython:S3776)"URefactor this function to reduce its Cognitive Complexity from 194 to the 15 allowed.(ó‚ €úÿÿÿÿ
+spython:S117«"[Rename this local variable "foundWhite" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÒú¾
+epython:S100§"MRename method "humanPlay" to match the regular expression ^[a-z_][a-z0-9_]*$.(©‘ÜÈ
+mpython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(©‘ÜÈ
+xpython:S117ü"[Rename this local variable "foundBlack" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒóÁíüÿÿÿÿ
+jpython:S100ú"MRename method "calcScore" to match the regular expression ^[a-z_][a-z0-9_]*$.(©§¼ïøÿÿÿÿ
+rpython:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(©§¼ïøÿÿÿÿ
+python:S117 "dRename this local variable "columnOfLowestScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(™Ù‰•ıÿÿÿÿ
+tpython:S117"\Rename this local variable "lowestScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(››ûß
+~python:S117Ÿ"aRename this local variable "rowOfLowestScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(õİ‡ıÿÿÿÿ
+tpython:S100"\Rename method "find_A_Valid_Move_Level1" to match the regular expression ^[a-z_][a-z0-9_]*$.(µÕ’Ø
+ypython:S100«"\Rename method "find_A_Valid_Move_Level3" to match the regular expression ^[a-z_][a-z0-9_]*$.(ìœêÿÿÿÿÿ
+‚python:S117½"eRename this local variable "columnOfHighestScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïÅü¬úÿÿÿÿ
+upython:S117»"]Rename this local variable "highestScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŞÓ„‡
+python:S117¼"bRename this local variable "rowOfHighestScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿî¦Ãúÿÿÿÿ
+tpython:S100º"\Rename method "find_A_Valid_Move_Level5" to match the regular expression ^[a-z_][a-z0-9_]*$.(½‘ëè
+xpython:S117Õ"[Rename this local variable "foundBlack" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒóÁíüÿÿÿÿ
+hpython:S100È"PRename method "computerPlay" to match the regular expression ^[a-z_][a-z0-9_]*$.(±Â£«
+mpython:S3776È"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(±Â£«
+lpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(œŸ²_
